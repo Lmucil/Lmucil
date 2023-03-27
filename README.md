@@ -5,7 +5,7 @@ Japanese high school student, addicted to anime, manga, and youtube.
 
 Learning Python, C#, batch file, linux, machine learning, blender, Unreal Engine 5.
 
-Games I play: Genshin Impact, War Thunder, COD.
+Games I play: Genshin Impact, War Thunder, Call of Duty® Modern Warfare® II  Warzone™ 2.0
 
 I speak Japanese and English, some Spanish and French, and a few Italian.
 
