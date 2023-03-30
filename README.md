@@ -9,6 +9,8 @@ Interested in Python, C#, batch file, linux, machine learning, blender, Unreal E
 
 Most interested in machine learning.
 
+# 自己紹介
+
 こんにちは、私はLmucilです。
 
 アニメ、マンガ中毒の日本人の中学生。
