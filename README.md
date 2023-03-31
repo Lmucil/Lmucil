@@ -21,4 +21,3 @@ Python、C#、バッチ ファイル、Linux、機械学習、ブレンダー、
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lmucil&theme=hacker&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
 
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={Lmucil}&theme={2077}
