@@ -18,3 +18,6 @@ Most interested in machine learning.
 Python、C#、バッチ ファイル、Linux、機械学習、ブレンダー、Unreal Engine 5 の学習。
 
 私は日本語と英語、スペイン語とフランス語、イタリア語を少し話すことができます。
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Lmucil)](https://git.io/streak-stats)
