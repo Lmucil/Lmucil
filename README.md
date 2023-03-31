@@ -1,7 +1,7 @@
 # introducingmyself
 hello, I'm Lmucil.
 
-Japanese high school student, addicted to anime and manga.
+Japanese, high school student, addicted to anime and manga.
 
 I speak Japanese and English, some Spanish and French, and a little bit of Italian.
 
