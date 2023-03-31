@@ -20,4 +20,6 @@ Python、C#、バッチ ファイル、Linux、機械学習、ブレンダー、
 私は日本語と英語、スペイン語とフランス語、イタリア語を少し話すことができます。
 
 
+
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lmucil&theme=hacker&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
