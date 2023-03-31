@@ -1,8 +1,12 @@
 # introducing myself
 hello, I'm Lmucil.
+
 Japanese, high school student, addicted to anime and manga.
+
 I speak Japanese and English, some Spanish and French, and a little bit of Italian.
+
 Interested in Python, C#, batch file, linux, machine learning, blender, Unreal Engine 5.
+
 Most interested in machine learning.
 
 # 自己紹介
