@@ -1,7 +1,7 @@
 # introducing myself
 
-a student, beginner
-Interested in 
+beginner,
+interested in 
 blender,
 Unreal Engine 5, 
 Python, 
