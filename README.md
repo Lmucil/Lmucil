@@ -2,7 +2,6 @@
 
 beginner,
 interested in 
-blender,
 Unreal Engine 5, 
 Python, 
 C#,
